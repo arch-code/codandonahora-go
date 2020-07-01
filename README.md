@@ -1,3 +1,6 @@
+## Video
+[Youtube](https://youtu.be/AHqGaBqwFnA)
+
 ## Links
 [Documentation Go](http://www.golangbr.org/doc/)
 <br />
